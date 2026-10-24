@@ -1,0 +1,107 @@
+<DATA>
+
+	<ROW>
+		<id>16</id>
+		<codigo_interno>P0001</codigo_interno>
+		<codigo_fabricante>0986AF0012</codigo_fabricante>
+		<descricao>Filtro de Óleo Bosch</descricao>
+		<marca>Bosch</marca>
+		<categoria_id>1</categoria_id>
+		<custo>32.50</custo>
+		<preco_venda>40.00</preco_venda>
+		<estoque>25</estoque>
+		<estoque_minimo>5</estoque_minimo>
+		<localizacao>A1-01</localizacao>
+		<ativo>1</ativo>
+	</ROW>
+
+	<ROW>
+		<id>17</id>
+		<codigo_interno>P0002</codigo_interno>
+		<codigo_fabricante>PD1234</codigo_fabricante>
+		<descricao>Pastilha de Freio Dianteira</descricao>
+		<marca>Cobreq</marca>
+		<categoria_id>2</categoria_id>
+		<custo>85.00</custo>
+		<preco_venda>120.00</preco_venda>
+		<estoque>18</estoque>
+		<estoque_minimo>4</estoque_minimo>
+		<localizacao>A2-03</localizacao>
+		<ativo>1</ativo>
+	</ROW>
+
+	<ROW>
+		<id>18</id>
+		<codigo_interno>P0003</codigo_interno>
+		<codigo_fabricante>BKR6E</codigo_fabricante>
+		<descricao>Vela de Ignição</descricao>
+		<marca>NGK</marca>
+		<categoria_id>3</categoria_id>
+		<custo>18.00</custo>
+		<preco_venda>25.50</preco_venda>
+		<estoque>60</estoque>
+		<estoque_minimo>10</estoque_minimo>
+		<localizacao>B1-02</localizacao>
+		<ativo>1</ativo>
+	</ROW>
+
+	<ROW>
+		<id>19</id>
+		<codigo_interno>P0004</codigo_interno>
+		<codigo_fabricante>G16495</codigo_fabricante>
+		<descricao>Amortecedor Dianteiro</descricao>
+		<marca>Allen</marca>
+		<categoria_id>4</categoria_id>
+		<custo>250.00</custo>
+		<preco_venda>350.00</preco_venda>
+		<estoque>8</estoque>
+		<estoque_minimo>2</estoque_minimo>
+		<localizacao>C1-01</localizacao>
+		<ativo>1</ativo>
+	</ROW>
+
+	<ROW>
+		<id>20</id>
+		<codigo_interno>P0005</codigo_interno>
+		<codigo_fabricante>60A123</codigo_fabricante>
+		<descricao>Bateria 60A</descricao>
+		<marca>Moura</marca>
+		<categoria_id>5</categoria_id>
+		<custo>360.00</custo>
+		<preco_venda>450.00</preco_venda>
+		<estoque>12</estoque>
+		<estoque_minimo>3</estoque_minimo>
+		<localizacao>D1-04</localizacao>
+		<ativo>1</ativo>
+	</ROW>
+
+	<ROW>
+		<id>21</id>
+		<codigo_interno>P0006</codigo_interno>
+		<codigo_fabricante>17565R14</codigo_fabricante>
+		<descricao>Pneu 175/65 R14</descricao>
+		<marca>Pirelli</marca>
+		<categoria_id>6</categoria_id>
+		<custo>220.00</custo>
+		<preco_venda>280.00</preco_venda>
+		<estoque>16</estoque>
+		<estoque_minimo>4</estoque_minimo>
+		<localizacao>E2-01</localizacao>
+		<ativo>1</ativo>
+	</ROW>
+
+	<ROW>
+		<id>22</id>
+		<codigo_interno>P0007</codigo_interno>
+		<codigo_fabricante>5W30SN</codigo_fabricante>
+		<descricao>Óleo de Motor 5W30</descricao>
+		<marca>Total</marca>
+		<categoria_id>7</categoria_id>
+		<custo>22.00</custo>
+		<preco_venda>32.00</preco_venda>
+		<estoque>40</estoque>
+		<estoque_minimo>10</estoque_minimo>
+		<localizacao>F1-02</localizacao>
+		<ativo>1</ativo>
+	</ROW>
+</DATA>
